@@ -1,2 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/root/work/yacc/ex3'
+let g:netrw_dirhist_2='/root/work/yacc/ex11'
+let g:netrw_dirhist_3='/root/git/react-tutorial/public/scripts'
+let g:netrw_dirhist_4='/home/dyuma/prime'
+let g:netrw_dirhist_5='/root/work/OS/OS7/x/y/d/,'

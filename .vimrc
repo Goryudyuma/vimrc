@@ -1,6 +1,8 @@
 set number "行番号を表示
 set relativenumber
 syntax on "コードの色分け
+colorscheme phd
+set t_Co=256
 
 "aa文字コードの自動判別
 set encoding=utf-8
@@ -64,6 +66,7 @@ NeoBundle 'fatih/vim-go'
 NeoBundle "itchyny/vim-pdf"
 NeoBundle 'scrooloose/syntastic'
 NeoBundle 'sjl/gundo.vim'
+NeoBundle 'koron/codic-vim'
 
 nnoremap <F5> :GundoToggle<CR>
 
